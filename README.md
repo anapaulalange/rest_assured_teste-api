@@ -1,6 +1,6 @@
 Projeto de automação de API com JUnit e RestAssured
 
-Justificativa:
+JUSTIFICATIVA:
 
 Automatizar a API do projeto 'Lojinha' utilizando JUnit e RestAssured
 
