@@ -6,7 +6,7 @@ Automatizar a API do projeto 'Lojinha' utilizando JUnit e RestAssured
 
 Projeto utilizado: http://165.227.93.41/lojinha/lojinha-v2.yml
 
-Nesse projeto é possível realizar as ações:
+Ações:
 
 - Cadastro um novo usuário
 - Obter o token do usuário
