@@ -1,4 +1,4 @@
-Projeto de automação de testes de API com JUnit e RestAssured
+Projeto de automação de API com JUnit e RestAssured
 
 Justificativa:
 
