@@ -8,7 +8,7 @@ Projeto utilizado: http://165.227.93.41/lojinha/lojinha-v2.yml
 
 Ações:
 
-- Cadastro um novo usuário
+- Cadastro de um novo usuário
 - Obter o token do usuário
 - Adicionar um novo produto
 - Alterar um produto existente
