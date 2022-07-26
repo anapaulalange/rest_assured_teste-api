@@ -1,3 +1,5 @@
+# Lojinha API
+
 Projeto de automação de API com JUnit e RestAssured
 
 JUSTIFICATIVA:
